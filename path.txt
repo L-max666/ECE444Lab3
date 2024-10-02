@@ -1,0 +1,6 @@
+$ export PATH="$PATH:/c/Users/louis/AppData/Local/Programs/Python/Python312" 
+
+
+note:
+	in git bash just type python -i to start the python 
+	type exit() to exit the python
