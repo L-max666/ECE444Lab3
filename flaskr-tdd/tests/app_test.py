@@ -67,7 +67,7 @@ def test_messages(client):
     """Ensure that user can post messages"""
     login(client, app.config["USERNAME"], app.config["PASSWORD"])
     rv = client.post(
-        "/add",
+        "/add", #add to an endpoint 
         data=dict(title="<Hello>", text="<strong>HTML</strong> allowed here"),
         follow_redirects=True,
     )

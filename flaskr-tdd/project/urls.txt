@@ -1,0 +1,3 @@
+internal:postgresql://ece444lab_db_deploy_user:e7Bl5cHKVfzwhRECoZBtNC5dmZndzfa5@dpg-cs021n08fa8c73e01el0-a/ece444lab_db_deploy
+
+external:postgresql://ece444lab_db_deploy_user:e7Bl5cHKVfzwhRECoZBtNC5dmZndzfa5@dpg-cs021n08fa8c73e01el0-a.oregon-postgres.render.com/ece444lab_db_deploy
